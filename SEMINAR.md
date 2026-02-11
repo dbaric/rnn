@@ -236,4 +236,4 @@ Time se potvrđuje da memorija kroz h(t) zaista preuzima ključnu ulogu kod sekv
 
 - Rajić, I. (2024). _Rekurentne neuronske mreže_ (diplomski rad). Sveučilište u Zagrebu, Prirodoslovno-matematički fakultet, Fizički odsjek, Zagreb. Trajna poveznica: https://urn.nsk.hr/urn:nbn:hr:217:923477 (pristupljeno 10. 2. 2026.). (`literature/unizg-pmf-diplomski-rajic.pdf`)
 
-- Čagalj, I. T. (2025). _Optimizacija hiperparametara i augmentacija podataka u dubokom učenju za lokalizaciju i detekciju zvukova_ (diplomski rad). Sveučilište u Splitu, Prirodoslovno-matematički fakultet, Odjel za informatiku, Split. (`literature/unist-pmf-diplomski-cagalj.pdf`)
+- Čagalj, I. T. (2025). _Optimizacija hiperparametara i augmentacija podataka u dubokom učenju za lokalizaciju i detekciju zvukova_ (diplomski rad). Sveučilište u Splitu, Prirodoslovno-matematički fakultet, Odjel za informatiku, Split. Trajna poveznica: https://urn.nsk.hr/urn:nbn:hr:166:710124 (pristupljeno 10. 2. 2026.). (`literature/unist-pmf-diplomski-cagalj.pdf`)
