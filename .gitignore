@@ -1,0 +1,3 @@
+# Ignore everything in literature/ except .gitkeep
+literature/*
+!literature/.gitkeep
